@@ -37,7 +37,7 @@ Is the same bike-sharing system duplicable in Des monies. Think of the data from
 * How is the income difference between these two cities?</br>
 
 ## Data Tables 
-Sources from https://www.census.gov/
+Sources from https://www.census.gov/<br/> 
 <img align="middle" width="450" src="/Challenge/Pics/Table 1.png"><br/> 
 <img align="middle" width="450" src="/Challenge/Pics/Table 2.png"><br/> 
 ## Populations
