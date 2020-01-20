@@ -1,4 +1,4 @@
-# Module14_CitiBike_Analysis
+
 
 # Project Overview 
 This module was focusing on data visullization by using the software- Tableau. Tableau software is an American interactive data visulization softwared with mapping functionality- able to plot latitude and longitude coordinates and coordinates and connect to spatial files like KML, GeoJson to display custom geography. In addition, the goal of this project is convince investors that a bike-sharing program in Des Moines is a solid business proposal. So we want to format our story so it's persuasive! We'll also want to include information about both New York City and Des Moines—after all, the investors will need to understand how the Citi Bike data for New York City applies to our proposal.
