@@ -36,7 +36,8 @@ Is the same bike-sharing system duplicable in Des monies. Think of the data from
 * What is the gender diversity of Des Moines? How does it compare to the gender diversity of New York City? What effect does it have on possible business in Des Moines?</br>
 * How is the income difference between these two cities?</br>
 
-## Data Tables from https://www.census.gov/
+## Data Tables 
+Sources from https://www.census.gov/
 <img align="middle" width="450" src="/Challenge/Pics/Table 1.png"><br/> 
 <img align="middle" width="450" src="/Challenge/Pics/Table 2.png"><br/> 
 ## Populations
@@ -48,3 +49,20 @@ Is the same bike-sharing system duplicable in Des monies. Think of the data from
 </br>The age and sex different between these two cites were small. New York has about 20.9% of persons under 18 and 14.1% persons over 65 years.  In respectively,  Des Monies has about 24.5% of persons under 18 and 11.7 persons over 65. The females percentage from New York City and Des Monies were 52.3% and 50.8%, which is also small difference. In turns of age and sex, the situation between these two cities is similar. Based on this result, we can concluded that this business should be possible in Des Moines. 
 
 ## Income
+- The Median household income for New York city is $60,762 and $52,251 for Des Monies. There are about $8000 dollars different for annual income. However, the poverty rate of New York City is 1% higher than Des Monies. From this we can speculate that the consumption in NYC is higher than Des Monies. People in DEs Monies are still wealthier in average even though the annual income is lower. 
+
+
+## Solutions
+From the data above, we know there are some adjustment we needs to made in order to implement this system in Des Monies. 
+* Lower the price for each ride 
+
+* Provide local pubilicity to increase the usage
+
+* City goverment encourage the resident to use the system 
+
+* Providing first ride discount
+
+* calculate the appropriate amount of station and bicycle need in Des Monies
+
+
+
