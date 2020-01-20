@@ -7,7 +7,7 @@ Based on the Website: "https://www.citibikenyc.com/how-it-works". The citibikeny
 The procedure of citibike can be divided into three parts: Unlock, Ride, and Return. In New York city, there are over 13,000 bikes and nearly 800 stations.<br/> 
 <img align="middle" width="450" src="/Challenge/Pics/stations.png"><br/> 
 
-**for detail information about citibikes in Newyork, please Click [here](****) to view the tableau story**
+**for detail information about citibikes in Newyork, please Click [here](https://public.tableau.com/profile/nick3283#!/vizhome/Module14/Story1?publish=yes) to view the tableau story**
 
 # Review of NYC Citi Bike
 " I've stopped taking the subway because of Citi Bike. It lets me see the city and save me a Ton of Money."<br/>
