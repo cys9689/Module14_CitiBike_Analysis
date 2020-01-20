@@ -27,4 +27,5 @@ Des Moines (/dɪˈmɔɪn/ (About this soundlisten)) is the capital and the most 
 Greater Des Moines is a four-season destination, with something for everyone. The warmer months can be spent biking more than 800 miles of trails, or at an Iowa Cubs game. We’re all about catching some rays and rides at Adventureland Park, the tradition of the Iowa State Fair and attending internationally recognized festivals. When the colors change and the pumpkin patches open you can dig in to the seasonal flavors of local vendors at the Downtown Farmers’ Market or sip the latest creation from one of 17 local breweries. Experience our emerging music scene and discover the latest public art installation. Greater Des Moines is surprising and ever-changing, we want you to see it all! <br/> 
 
 Need a few ideas to get you started? <br/> 
+Please click the following link [here](https://www.catchdesmoines.com/things-to-do/) to explore more fun in Des Moines 
 
