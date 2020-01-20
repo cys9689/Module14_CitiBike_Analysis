@@ -10,15 +10,15 @@ The procedure of citibike can be divided into three parts: Unlock, Ride, and Ret
 **for detail information about citibikes in Newyork, please Click [here](****) to view the tableau story**
 
 # Review of NYC Citi Bike
-" I've stopped taking the subway because of Citi Bike. It lets me see the city and save me a Ton of Money."
+" I've stopped taking the subway because of Citi Bike. It lets me see the city and save me a Ton of Money."<br/> 
                                       -Talia B., 28, Manhattan
-" Citi Bike is often the fasstest possible way to get around the city, especially when crosstown travel is involved."
+" Citi Bike is often the fasstest possible way to get around the city, especially when crosstown travel is involved."<br/> 
                                     -Sasha Grafit,27, Brooklyn    
-"Citi Bike is terrific. I even got a membership on top of owning a bike- It's just so darn convenient!"
+"Citi Bike is terrific. I even got a membership on top of owning a bike- It's just so darn convenient!"<br/> 
                                    -Cameron Hanson,28,Brooklyn
-"I love riding Citi Bike during lunchtime-it's fun and great exercise!"
+"I love riding Citi Bike during lunchtime-it's fun and great exercise!"<br/> 
                                    -William Welsh,53,Manhattan
-"Citi Bike is a great transporation alternative,and it's helped immprove the awareness of cyclists in the city."
+"Citi Bike is a great transporation alternative,and it's helped immprove the awareness of cyclists in the city."<br/> 
                                    -Lee Saffer,31,Manhattan                                                  
 ## Smaller Title
 ### Even Smaller Title
