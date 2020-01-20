@@ -29,3 +29,22 @@ Greater Des Moines is a four-season destination, with something for everyone. Th
 Need a few ideas to get you started? <br/> 
 Please click the following link [here](https://www.catchdesmoines.com/things-to-do/) to explore more fun in Des Moines 
 
+## Questions
+Is the same bike-sharing system duplicable in Des monies. Think of the data from the NYC citibike, the system is definitly convinient and profitable. However, in order to answer the question of whether this system able to work in Des Monies we need to figure the following questions:
+
+* What is the population of Des Moines? How does its population compare to the population of New York City? Does the population affect the number of people who will use the bike-sharing program?</br>
+* What is the gender diversity of Des Moines? How does it compare to the gender diversity of New York City? What effect does it have on possible business in Des Moines?</br>
+* How is the income difference between these two cities?</br>
+
+## Data Tables from https://www.census.gov/
+<img align="middle" width="450" src="/Challenge/Pics/Table 1.png"><br/> 
+<img align="middle" width="450" src="/Challenge/Pics/Table 2.png"><br/> 
+## Populations
+* Population in Des Moines: 216,853
+* Population in New York City: 8,398,748
+</br>the Populations difference between Des Moines and New York city is huge. The amount of people in New York City is 38 times more than Des Moines, such difference will definitely has effect on the bike-sharing program. If we assume to set up same amount of bike station/bike in Des Moines, this will result in large amount of unused bike. And for sure we don’t wants this happen, because it is a waste.
+
+## Gender spread and age
+</br>The age and sex different between these two cites were small. New York has about 20.9% of persons under 18 and 14.1% persons over 65 years.  In respectively,  Des Monies has about 24.5% of persons under 18 and 11.7 persons over 65. The females percentage from New York City and Des Monies were 52.3% and 50.8%, which is also small difference. In turns of age and sex, the situation between these two cities is similar. Based on this result, we can concluded that this business should be possible in Des Moines. 
+
+## Income
